@@ -1,4 +1,6 @@
-
+<p align="center">
+  
+  
   |
   <a href="https://joyce-fernandes.github.io/Template_Space_Joy/#0">Demo</a>
   |
@@ -7,7 +9,11 @@
 
 </p>
 
-<img width="80%" align="center" src="img/joy.jpeg" alt="template" /> <br/>
+ <img width="60%" height= "30%"  align="center" src="img/joy.jpeg" alt="template">
+<br/>
+
+ 
+
 
 
 
