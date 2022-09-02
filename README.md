@@ -1,3 +1,12 @@
+
+  |
+  <a href="https://joyce-fernandes.github.io/Template_Space_Joy/#0">Demo</a>
+  |
+  <a href="https://www.linkedin.com/in/joyce-fernandes-da-silva/">LinkedIn</a>
+  |
+
+</p>
+
 <img width="80%" align="center" src="img/joy.jpeg" alt="template" /> <br/>
 
 
